@@ -1,0 +1,8 @@
+pip
+fastapi
+uvicorn
+Pillow
+Jinja2
+gdown
+python-multipart
+tensorflow<2.11
